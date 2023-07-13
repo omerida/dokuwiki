@@ -978,3 +978,7 @@ _test/tests/lib/exe/js_js_compress/test-StringDoubleQuotes-in.js
 _test/tests/lib/exe/js_js_compress/test-StringDoubleQuotes-out.js
 _test/tests/lib/exe/js_js_compress/test-StringSingleQuotes-in.js
 _test/tests/lib/exe/js_js_compress/test-StringSingleQuotes-out.js
+_test/tests/inc/auth_browseruid.test.php
+_test/tests/inc/cli_options.test.php
+_test/tests/inc/ixr_library_date.test.php
+_test/tests/inc/ixr_library_ixr_message.test.php
